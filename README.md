@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hemant(Abhi)!
-👩🏻‍💻 Aspiring ML Engineer sharing about my journey and learnings in tech<br/>
+👩🏻‍💻 Aspiring Data Scientist sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Pursuing BE in Electronics and Telecommunication at Savitribai Phule Pune University, Maharashtra,India<br/>
-💭 Currently learning about Generative AI<br/>
+💭 Currently learning about Data analytics<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Abhi's github stats](https://github-readme-stats.vercel.app/api?username=abhie021&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
