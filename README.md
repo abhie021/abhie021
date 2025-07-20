@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Hemant+(Abhi)%F0%9F%91%8B;Electronics+and+Telecom+Engineering+Student;Exploring+VLSI+Design+and+Agentic+AI;Japanese+Language+Enthusiast+%F0%9F%87%AF%F0%9F%87%B5;Welcome+to+my+GitHub+Profile+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-# 👋 Hi, I'm Hemant (Abhi)!
-
 🎓 Electronics and Telecommunication Engineering student at **Savitribai Phule Pune University**, Maharashtra, India  
 🔍 Exploring **VLSI**, **Agentic AI**, and the power of emerging technologies  
 🈶 Passionate about the Japanese language and cross-cultural learning
