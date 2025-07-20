@@ -41,9 +41,9 @@
 
 ---
 
-## 📬 Connect with Me
+## 📬 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/hemant-murkute)
+[LinkedIn](https://www.linkedin.com/in/hemant-murkute) · murkutehemant21@gmail.com
 - 📧 Email: murkutehemant21@gmail.com
 
 ---
