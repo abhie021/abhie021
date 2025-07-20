@@ -1,7 +1,8 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Hemant+(Abhi)%F0%9F%91%8B;Electronics+and+Telecom+Engineering+Student;Exploring+VLSI+Design+and+Agentic+AI;Japanese+Language+Enthusiast+%F0%9F%87%AF%F0%9F%87%B5;Welcome+to+my+GitHub+Profile+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Hemant+(Abhi);Electronics+and+Telecom+Engineering+Student;Exploring+VLSI+Design+%7C+Agentic+AI;Japanese+Language+Learner+%F0%9F%87%AF%F0%9F%87%B5;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </p>
+
 
 🎓 Electronics and Telecommunication Engineering student at **Savitribai Phule Pune University**, Maharashtra, India  
 🔍 Exploring **VLSI**, **Agentic AI**, and the power of emerging technologies  
@@ -31,11 +32,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-[![Abhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhie021&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abhie021&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/abhie021)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhie021&count_private=true&show_icons=true&theme=radical&hide_title=true" height="165">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhie021&theme=radical&no-frame=true&no-bg=true&margin-w=8" height="165">
+</p>
 
 ---
 
@@ -50,9 +52,9 @@
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-> This profile and content are licensed under Creative Commons BY-NC-ND 4.0  
-> For **educational and reference use only** – please credit if you learn or share!
+> Content in this repository is licensed under **Creative Commons BY-NC-ND 4.0**  
+> Usage for educational or reference purposes only — please credit appropriately.
 
 ---
 
-_Thanks for visiting my GitHub!_ 😊
+<p align="center"><i>Thanks for visiting my GitHub!</i> 🚀</p>
