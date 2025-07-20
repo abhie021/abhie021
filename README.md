@@ -3,23 +3,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Hemant+(Abhi)%F0%9F%91%8B;Electronics+and+Telecom+Engineering+Student;Exploring+VLSI+Design+and+Agentic+AI;Japanese+Language+Enthusiast+%F0%9F%87%AF%F0%9F%87%B5;Welcome+to+my+GitHub+Profile+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-🎓 Tech enthusiast sharing my journey in data, code, and creativity  
-📍 Based in Maharashtra, India | Pursuing *BE in Electronics and Telecommunication*  
-💭 Currently learning **VLSI**, and **Agentic AI**  
-🈶 *JLPT N5*
+# 👋 Hi, I'm Hemant (Abhi)!
 
----
-
-## 🚀 About Me
-
-- 🧠 Curious about real-world data, AI, and how technology shapes everyday life
-- 💼 Completed a *Virtual Internship in Data Analytics* at Trainity
+🎓 Electronics and Telecommunication Engineering student at **Savitribai Phule Pune University**, Maharashtra, India  
+🔍 Exploring **VLSI**, **Agentic AI**, and the power of emerging technologies  
+🈶 Passionate about the Japanese language and cross-cultural learning
 
 ---
 
 ## 🧰 Tech Stack
 
-### 👩🏻‍💻 Languages
+### 👨‍💻 Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -54,13 +48,13 @@
 
 ---
 
-### 🔒 License
+## 🔒 License
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 > This profile and content are licensed under Creative Commons BY-NC-ND 4.0  
-> For *educational and reference use only* – please credit if you learn or share!
+> For **educational and reference use only** – please credit if you learn or share!
 
 ---
 
-Thanks for stopping by! Let's learn, build, and grow together 🚀
+_Thanks for visiting my GitHub!_ 😊
