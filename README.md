@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hemant (Abhi)!
 
-🎓 Tech enthusiast sharing my journey in data, code, and creativity
+🎓 Tech enthusiast sharing my journey in data, code, and creativity  
 📍 Based in Maharashtra, India | Pursuing *BE in Electronics and Telecommunication*  
 💭 Currently learning **VLSI**, and **Agentic AI**  
 🈶 *JLPT N5*
