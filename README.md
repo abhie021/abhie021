@@ -40,10 +40,11 @@
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abhie021&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/abhie021)
 
 ---
-## 📬 Connect
 
-[LinkedIn](https://www.linkedin.com/in/hemant-murkute) · murkutehemant21@gmail.com
+## 📬 Connect with Me
 
+- [LinkedIn](https://www.linkedin.com/in/hemant-murkute)
+- 📧 Email: murkutehemant21@gmail.com
 
 ---
 
