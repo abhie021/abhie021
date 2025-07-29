@@ -48,13 +48,4 @@
 
 ---
 
-## 🔒 License
-
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-> Content in this repository is licensed under **Creative Commons BY-NC-ND 4.0**  
-> Usage for educational or reference purposes only — please credit appropriately.
-
----
-
 <p align="center"><i>Thanks for visiting my GitHub!</i> 🚀</p>
