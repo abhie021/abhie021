@@ -3,12 +3,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Hemant+(Abhi);Electronics+and+Telecom+Engineering+Student;Exploring+VLSI+Design+%7C+Agentic+AI;Japanese+Language+Learner+%F0%9F%87%AF%F0%9F%87%B5;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </p>
 
+![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
+
+![coder (1) (2)](https://github.com/user-attachments/assets/f9af4973-76b2-4039-b68c-8012578dd7b0)
+
+![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
 🎓 Electronics and Telecommunication Engineering student at **Savitribai Phule Pune University**, Maharashtra, India  
 🔍 Exploring **VLSI**, **Agentic AI**, and the power of emerging technologies  
 🈶 Passionate about the Japanese language and cross-cultural learning
 
----
+![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
+
 
 ## 🧰 Tech Stack
 
@@ -17,6 +23,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
 ### 🛠 Tools & Platforms
 
@@ -30,7 +38,8 @@
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-0A0A0A?style=for-the-badge&logo=github&logoColor=green)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
----
+![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
+
 
 ## 📊 GitHub Stats
 
@@ -39,13 +48,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=abhie021&theme=radical&no-frame=true&no-bg=true&margin-w=8" height="165">
 </p>
 
----
+![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
+
 
 ## 📬 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/hemant-murkute)
 - 📧 Email: murkutehemant21@gmail.com
 
----
+![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
+
 
 <p align="center"><i>Thanks for visiting my GitHub!</i> 🚀</p>
+
+
+![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
