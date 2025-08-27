@@ -44,9 +44,11 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/46e6bcb4-2f42-41ee-85c0-ef502b208447" target="_blank">
-    <img src="https://images.credly.com/size/150x150/images/46e6bcb4-2f42-41ee-85c0-ef502b208447/badge.png" width="120" height="120" alt="Credly Badge"/>
+    <img src="https://user-images.githubusercontent.com/xxxxxx/badge.png" width="120" height="120" alt="My Badge"/>
   </a>
 </p>
+
+![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 ## 📊 GitHub Stats
