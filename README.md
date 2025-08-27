@@ -49,7 +49,6 @@ src="https://github.com/abhie021/abhie021/issues/1#issue-3358673023" width="120"
   </a>
 </p>
 
-![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 ## 📊 GitHub Stats
