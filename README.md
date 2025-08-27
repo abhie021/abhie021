@@ -68,7 +68,7 @@ src="https://private-user-images.githubusercontent.com/143165714/482591856-6a607
 
 ## 📈 Activity Graph  
 
-![Hemant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhie021&theme=radical)
+![Hemant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhie021&theme=react-dark)
 
 ## 📬 Connect with Me
 
