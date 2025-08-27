@@ -38,6 +38,8 @@
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-0A0A0A?style=for-the-badge&logo=github&logoColor=green)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+![Langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
 ## 🏅 Certifications & Badges  
