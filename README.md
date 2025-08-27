@@ -44,7 +44,8 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/46e6bcb4-2f42-41ee-85c0-ef502b208447" target="_blank">
-    <img src=https:"//github.com/abhie021/abhie021/issues/1#issue-3358673023" width="120" height="120" alt="My Badge"/>
+    <img 
+src="https://github.com/abhie021/abhie021/issues/1#issue-3358673023" width="120" height="120" alt="My Badge"/>
   </a>
 </p>
 
