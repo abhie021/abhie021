@@ -47,6 +47,10 @@
     <img 
 src="https://private-user-images.githubusercontent.com/143165714/482591856-6a607d34-69ca-4416-913b-6251f35e6612.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYyODc4NjksIm5iZiI6MTc1NjI4NzU2OSwicGF0aCI6Ii8xNDMxNjU3MTQvNDgyNTkxODU2LTZhNjA3ZDM0LTY5Y2EtNDQxNi05MTNiLTYyNTFmMzVlNjYxMi5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDgyNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA4MjdUMDkzOTI5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTljNTU0YTdjN2Y2NTc1NDU0YTQ2NTAzNjhiN2I5M2Q2ZTgxYjI2MTAzZDIxMjM1MDZiYTlkZTIyZWEzZDY5ZCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.1_af682ovTfnE3O8Xh5VDfge7q6AG4UFjcziVQJPsI0" width="120" height="120" alt="My Badge"/>
   </a>
+
+<a href="https://www.credly.com/badges/43afd89f-b350-4673-a2dd-05d67e6cc1d7" target="_blank">
+    <img src="https://user-images.githubusercontent.com/xxxxxx/badge2.png" width="120" height="120" alt="Badge 2"/>
+  </a>
 </p>
 
 
