@@ -97,7 +97,6 @@ src="https://private-user-images.githubusercontent.com/143165714/482761471-25c0e
 
 [![abhie021's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhie021&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Sparkline](https://stars.medv.io/abhie021/badges.svg)](https://stars.medv.io/abhie021/badges)
 
 ## 📬 Connect with Me
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-murkute)
