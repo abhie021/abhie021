@@ -91,30 +91,34 @@ src="https://private-user-images.githubusercontent.com/143165714/482761471-25c0e
   </p>
 </details>
 
-## 📊 GitHub Stats
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhie021&theme=dark" alt="GitHub Streak Stats" />
-</p>
+  <h3>🔥 Streak Stats</h3>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhie021&theme=dark" alt="GitHub Profile Summary"/>
-</p>
+  <!-- GitHub Readme Streak Stats -->
+  <p>
+    <a href="https://github.com/abhie021">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="abhie021's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhie021&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhie021&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
+  <h3>💻 GitHub Profile Stats</h3>
 
-<p align="center">
-  <img alt="abhie021's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abhie021&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="abhie021's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abhie021&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-</p>
+  <!-- GitHub Stats -->
+  <img alt="abhie021's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abhie021&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="192px"/>
+  <img alt="abhie021's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abhie021&langs_count=8&layout=compact&theme=dark&hide_border=true" height="192px"/>
+  <br/>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- GitHub Activity Graph -->
+  <img alt="abhie021's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=abhie021&bg_color=1F222E&color=FFFFFF&line=00FF00&point=FFFFFF&hide_border=true" />
 
-![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
-## 📈 Activity Graph  
-[![abhie021's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhie021&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</details>
+<!-- ## 📈 Activity Graph  
+[![abhie021's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhie021&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
