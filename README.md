@@ -77,6 +77,10 @@ src="https://private-user-images.githubusercontent.com/143165714/482761471-25c0e
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhie021&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhie021&count_private=true&show_icons=true&theme=radical&hide_title=true" height="165">
 
 <p align="center">
