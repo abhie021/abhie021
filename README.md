@@ -70,20 +70,27 @@ src="https://private-user-images.githubusercontent.com/143165714/482761471-25c0e
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
-<p align="left">
-  <a href="https://github.com/abhie021/Wellkindled">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abhie021&repo=Wellkindled&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Wellkindled"/>
-  </a>
-  <a href="https://github.com/Busted-pinch/AgroSense">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Busted-pinch&repo=AgroSense&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgroSense"/>
-  </a>
-</p>
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-<p align="left">
-  <a href="https://github.com/abhie021?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</p>
+  <!-- Pinned Repo Cards -->
+  <p align="left">
+    <a href="https://github.com/abhie021/Wellkindled">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abhie021&repo=Wellkindled&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Wellkindled"/>
+    </a>
+    <a href="https://github.com/Busted-pinch/AgroSense">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Busted-pinch&repo=AgroSense&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgroSense"/>
+    </a>
+    <!-- Add more repos here following the same format -->
+  </p>
+
+  <!-- All Repositories Badge -->
+  <p align="left">
+    <a href="https://github.com/abhie021?tab=repositories&sort=stargazers">
+      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+    </a>
+  </p>
+</details>
 
 ## 📊 GitHub Stats
 
