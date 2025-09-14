@@ -121,9 +121,15 @@ src="https://private-user-images.githubusercontent.com/143165714/482761471-25c0e
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
 ## 📬 Connect with Me
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-murkute)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murkutehemant21@gmail.com)
+ <p align="center">
+  <a href="https://www.linkedin.com/in/hemant-murkute">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:murkutehemant21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
