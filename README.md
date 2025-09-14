@@ -122,7 +122,7 @@ src="https://private-user-images.githubusercontent.com/143165714/482761471-25c0e
 
 ## 📬 Connect with Me
 
- <p align="center">
+ <p align="left">
   <a href="https://www.linkedin.com/in/hemant-murkute">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
