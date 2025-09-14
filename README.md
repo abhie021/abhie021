@@ -94,8 +94,7 @@ src="https://private-user-images.githubusercontent.com/143165714/482761471-25c0e
 ![Hemant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhie021&theme=react-dark)
 
 ## 📬 Connect with Me
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-murkute)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-murkute)
 
 - 📧 Email: murkutehemant21@gmail.com
 
