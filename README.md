@@ -100,7 +100,7 @@ src="https://private-user-images.githubusercontent.com/143165714/482761471-25c0e
 ## 📬 Connect with Me
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-murkute)
 
-- 📧 Email: murkutehemant21@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murkutehemant21@gmail.com)
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
