@@ -70,6 +70,14 @@ src="https://private-user-images.githubusercontent.com/143165714/482761471-25c0e
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
+<p align="center">
+  <a href="https://github.com/abhie021?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+
+
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
