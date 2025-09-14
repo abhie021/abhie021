@@ -74,6 +74,9 @@ src="https://private-user-images.githubusercontent.com/143165714/482761471-25c0e
   <a href="https://github.com/abhie021/Wellkindled">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abhie021&repo=Wellkindled&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Wellkindled"/>
   </a>
+  <a href="https://github.com/Busted-pinch/AgroSense">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Busted-pinch&repo=AgroSense&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgroSense"/>
+  </a>
 </p>
 
 <p align="center">
