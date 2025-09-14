@@ -90,7 +90,6 @@ src="https://private-user-images.githubusercontent.com/143165714/482761471-25c0e
 </p>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 ## 📈 Activity Graph  
