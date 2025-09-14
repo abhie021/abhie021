@@ -75,7 +75,9 @@ src="https://private-user-images.githubusercontent.com/143165714/482761471-25c0e
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhie021&count_private=true&show_icons=true&theme=radical&hide_title=true" height="165">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhie021&theme=radical&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhie021&theme=radical&layout=compact" alt="Top Languages" />
+</p>
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
