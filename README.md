@@ -71,7 +71,7 @@ src="https://private-user-images.githubusercontent.com/143165714/482761471-25c0e
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘Open Source Projects</h2></summary>
 
   <!-- Pinned Repo Cards -->
   <p align="left">
@@ -81,7 +81,6 @@ src="https://private-user-images.githubusercontent.com/143165714/482761471-25c0e
     <a href="https://github.com/Busted-pinch/AgroSense">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Busted-pinch&repo=AgroSense&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgroSense"/>
     </a>
-    <!-- Add more repos here following the same format -->
   </p>
 
   <!-- All Repositories Badge -->
