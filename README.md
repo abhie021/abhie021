@@ -91,6 +91,8 @@ src="https://private-user-images.githubusercontent.com/143165714/482761471-25c0e
   </p>
 </details>
 
+![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
+
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
