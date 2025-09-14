@@ -73,11 +73,11 @@ src="https://private-user-images.githubusercontent.com/143165714/482761471-25c0e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhie021&count_private=true&show_icons=true&theme=radical&hide_title=true" height="165">
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhie021&theme=dark" alt="GitHub Streak Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhie021&count_private=true&show_icons=true&theme=radical&hide_title=true" height="165">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhie021&theme=radical&layout=compact" alt="Top Languages" />
