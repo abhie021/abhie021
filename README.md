@@ -61,8 +61,11 @@
   <a href="https://www.credly.com/badges/46e6bcb4-2f42-41ee-85c0-ef502b208447" target="_blank">
     <img src="https://github.com/user-attachments/assets/6a55d70c-9f24-4243-8e42-f823a132f474" width="120" height="120" alt="日本語"/>
   </a>
-</p>
 
+  <a href="https://www.credly.com/badges/43afd89f-b350-4673-a2dd-05d67e6cc1d7" target="_blank">
+    <img src="https://github.com/user-attachments/assets/1dba5fa5-bc8a-4149-9548-509c4a6b512c" width="120" height="120" alt="Badge 2"/>
+  </a>
+</p>
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
