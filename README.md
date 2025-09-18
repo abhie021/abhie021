@@ -63,7 +63,7 @@
   </a>
 
   <a href="https://www.credly.com/badges/43afd89f-b350-4673-a2dd-05d67e6cc1d7" target="_blank">
-    <img src="https://github.com/user-attachments/assets/1dba5fa5-bc8a-4149-9548-509c4a6b512c" width="120" height="120" alt="Badge 2"/>
+    <img src="https://github.com/user-attachments/assets/1dba5fa5-bc8a-4149-9548-509c4a6b512c" width="120" height="120" alt="MATLAB FUNDAMENTALS"/>
   </a>
 </p>
 
