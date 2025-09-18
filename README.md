@@ -1,4 +1,3 @@
-![image](https://github.com/abhie021/github-readme-streak-stats/assets/20955511/29a78acd-56e8-465d-aff0-f984ecc14423)  |
 <!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Hemant+(Abhi);Electronics+and+Telecom+Engineering+Student;Exploring+VLSI+Design+%7C+Agentic+AI;Japanese+Language+Learner+%F0%9F%87%AF%F0%9F%87%B5;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
