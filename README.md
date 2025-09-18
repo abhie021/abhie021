@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/46e6bcb4-2f42-41ee-85c0-ef502b208447" target="_blank">
-    <img src="https://github.com/user-attachments/assets/6a55d70c-9f24-4243-8e42-f823a132f474" width="120" height="120" alt="My Badge"/>
+    <img src="https://github.com/user-attachments/assets/6a55d70c-9f24-4243-8e42-f823a132f474" width="120" height="120" alt="日本語"/>
   </a>
 </p>
 
