@@ -102,7 +102,7 @@
     <a href="https://github.com/abhie021">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
        alt="abhie021's streak" 
-       src="https://streak-stats.demolab.com?user=abhie021&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+       src="https://streak-stats.demolab.com?user=abhie021&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
