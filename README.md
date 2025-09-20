@@ -113,7 +113,6 @@
   <!-- GitHub Stats -->
   <img alt="abhie021's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abhie021&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="192px"/>
   <img alt="abhie021's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abhie021&langs_count=8&layout=compact&theme=dark&hide_border=true" height="192px"/>
-  <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
