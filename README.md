@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&color=525252"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4.svg?style=for-the badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
@@ -81,6 +81,9 @@
   <a href="https://github.com/Busted-pinch/AgroSense">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Busted-pinch&repo=AgroSense&theme=react&bg_color=1F222E&title_color=1c81ce&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgroSense"/>
   </a>
+  <a href="https://github.com/atharv2515/StreetResolve">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=atharv2515&repo=StreetResolve&theme=react&bg_color=1F222E&title_color=1c81ce&hide_border=true&icon_color=F8D866&show_icons=false" alt="StreetResolve"/>
+ </a>
   <a href="https://github.com/abhie021/Arogya-Sahayak">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abhie021&repo=Arogya-Sahayak&theme=react&bg_color=1F222E&title_color=1c81ce&hide_border=true&icon_color=F8D866&show_icons=false" alt="Arogya-Sahayak"/>
  </a>
