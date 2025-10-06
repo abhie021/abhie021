@@ -13,7 +13,7 @@
 
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331">  
-</p>  
+</p> 
 
 <p align="center">  
 🎓 Electronics and Telecommunication Engineering student at Savitribai Phule Pune University, Maharashtra, India <br>  
