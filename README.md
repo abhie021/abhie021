@@ -139,13 +139,6 @@
 <img src="https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331">  
 </p>  
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset ="https://raw.githubusercontent.com/Xzy-Vron/Xzy-Vron /output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset ="https://raw.githubusercontent.com/Xzy-Vron/Xzy-Vron /output/github-snake.svg" />
-<img alt="github-snake" src="https://raw
-.githubusercontent.com/Xzy-Vron/Xzy-Vron/output/github -snake.svg" />
-</picture>
-
 <h2 align="center">📬 Connect with Me</h2>  
 <p align="center">  
   <a href="https://www.linkedin.com/in/hemant-murkute">  
